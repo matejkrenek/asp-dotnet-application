@@ -1,0 +1,13 @@
+﻿@page
+@model WebApplication1.Pages.Customers.CreateModel
+@{
+    ViewData["Title"] = "Create customer";
+}
+
+<p>Enter a customer name:</p>
+
+<form method="post">
+    Name:
+    <input asp-for="Customer.Name">
+    <input type="submit">
+</form>
