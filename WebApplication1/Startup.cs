@@ -27,7 +27,11 @@ namespace WebApplication1
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<CustomerDbContext>(options => options.UseInMemoryDatabase("name"));
-            services.AddRazorPages();
+            services.AddDbContext<MovieDbContext>(options => options.UseInMemoryDatabase("name2"));
+            services.AddRazorPages(options =>
+            {
+                options.RootDirectory = "/Views";
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

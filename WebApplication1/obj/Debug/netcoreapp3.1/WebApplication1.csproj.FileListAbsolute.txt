@@ -22,13 +22,6 @@ D:\matejkrenek\learning\C#\WebApplication1\WebApplication1\obj\Debug\netcoreapp3
 D:\matejkrenek\learning\C#\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.TagHelpers.input.cache
 D:\matejkrenek\learning\C#\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.TagHelpers.output.cache
 D:\matejkrenek\learning\C#\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorCoreGenerate.cache
-D:\matejkrenek\learning\C#\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
-D:\matejkrenek\learning\C#\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
-D:\matejkrenek\learning\C#\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
-D:\matejkrenek\learning\C#\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
-D:\matejkrenek\learning\C#\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
-D:\matejkrenek\learning\C#\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
-D:\matejkrenek\learning\C#\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
 D:\matejkrenek\learning\C#\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
 D:\matejkrenek\learning\C#\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cs
 D:\matejkrenek\learning\C#\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.Views.pdb
@@ -36,7 +29,6 @@ D:\matejkrenek\learning\C#\WebApplication1\WebApplication1\obj\Debug\netcoreapp3
 D:\matejkrenek\learning\C#\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
 D:\matejkrenek\learning\C#\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
 D:\matejkrenek\learning\C#\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
-D:\matejkrenek\learning\C#\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\LetsLearnRazor.cshtml.g.cs
 D:\matejkrenek\learning\C#\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
 D:\matejkrenek\learning\C#\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
 D:\matejkrenek\learning\C#\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
@@ -51,5 +43,13 @@ D:\matejkrenek\learning\C#\WebApplication1\WebApplication1\bin\Debug\netcoreapp3
 D:\matejkrenek\learning\C#\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 D:\matejkrenek\learning\C#\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
 D:\matejkrenek\learning\C#\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-D:\matejkrenek\learning\C#\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Customers\Create.cshtml.g.cs
-D:\matejkrenek\learning\C#\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Customers\Edit.cshtml.g.cs
+D:\matejkrenek\learning\C#\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Create.cshtml.g.cs
+D:\matejkrenek\learning\C#\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Edit.cshtml.g.cs
+D:\matejkrenek\learning\C#\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Error.cshtml.g.cs
+D:\matejkrenek\learning\C#\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Index.cshtml.g.cs
+D:\matejkrenek\learning\C#\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\LetsLearnRazor.cshtml.g.cs
+D:\matejkrenek\learning\C#\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Create.cshtml.g.cs
+D:\matejkrenek\learning\C#\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Privacy.cshtml.g.cs
+D:\matejkrenek\learning\C#\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\matejkrenek\learning\C#\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\matejkrenek\learning\C#\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs

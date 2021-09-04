@@ -1,0 +1,22 @@
+﻿@page "{id:int}"
+@model WebApplication1.Pages.Movies.CreateModel
+@{
+    ViewData["Title"] = "Create movie";
+}
+
+<h1>Create Customer - @Model.Movie.Id</h1>
+<form method="post">
+    <div asp-validation-summary="All"></div>
+    <input asp-for="Movie.Id" type="hidden" />
+    <div>
+        <label asp-for="Movie.Title"></label>
+        <div>
+            <input asp-for="Movie.Title" />
+            <span asp-validation-for="Movie.Title"></span>
+        </div>
+    </div>
+
+    <div>
+        <button type="submit">Save</button>
+    </div>
+</form>
